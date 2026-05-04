@@ -757,6 +757,7 @@
 	</build>
 
 	<properties>
+		<sonar.organization>bassel04</sonar.organization>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<cpsolver.version>1.4.91</cpsolver.version>
 		<hibernate.version>6.6.46.Final</hibernate.version>
